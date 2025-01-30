@@ -91,7 +91,7 @@ header>a {
     text-transform: uppercase;
 }
 
-/* header .links {
+ header .links {
     display: flex;
     align-items: center;
 }
@@ -106,7 +106,7 @@ header .links .bar {
         display: block;
     }
 
-} */
+} 
 
 header ul {
     display: flex;
